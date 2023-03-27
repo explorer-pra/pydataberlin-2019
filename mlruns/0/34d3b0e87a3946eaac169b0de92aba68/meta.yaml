@@ -1,0 +1,15 @@
+artifact_uri: mlruns/0/34d3b0e87a3946eaac169b0de92aba68/artifacts
+end_time: 1679888127030
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 34d3b0e87a3946eaac169b0de92aba68
+run_uuid: 34d3b0e87a3946eaac169b0de92aba68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679887833791
+status: 3
+tags: []
+user_id: prashant
